@@ -1,4 +1,4 @@
-klpackage superkeyword;
+package superkeyword;
 
 public class Superdivisiblechild extends Superdivisible 
 {
